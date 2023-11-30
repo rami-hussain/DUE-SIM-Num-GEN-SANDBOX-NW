@@ -5,7 +5,7 @@ name: 'MY TEST RUN'
 on:
   push:
      branches: 
-       - master
+       - main
     #  paths: ./github-runner/Dockerfile
      
 
